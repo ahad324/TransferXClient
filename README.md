@@ -33,9 +33,7 @@ Welcome to **TransferX**—the ultimate offline file-sharing solution designed t
 ## 🚀 Get Started
 
 To dive into **TransferX**:
-
-1. Visit our [GitHub repository](https://github.com/ahad324/transferX) to explore the source code, documentation, and latest updates.
-2. Download the latest version and start transferring files seamlessly within your local network!
+Download the latest version from the website and start transferring files seamlessly within your local network!
 
 ---
 
